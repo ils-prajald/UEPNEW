@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AvenirNextCondensed-Bold.ttf",
+      "sha1": "3bc3819f224a10e9fbfac446bd70ac2f7ae4254b"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNextCondensed-DemiBold.ttf",
+      "sha1": "9a2d15c5197fc569b75d3900331d6a38b8c461d1"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNextCondensed-MediumItalic.ttf",
+      "sha1": "1080951ae550ae49a3bc3eec17df213f68895340"
+    },
+    {
+      "path": "src/assets/fonts/AvenirNextCondensed-Regular.ttf",
+      "sha1": "4b552635f147629535809bae9a2e5855b39353f2"
+    },
+    {
+      "path": "src/assets/fonts/BarlowCondensed-SemiBoldItalic.ttf",
+      "sha1": "32e139a734f62bd77e462439de732cb1b46acc25"
+    },
+    {
+      "path": "src/assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "76057d206a498d40aa4779d0d5a382ad7554dd80"
+    },
+    {
+      "path": "src/assets/fonts/Farmhouse.ttf",
+      "sha1": "055f8faa1d73b64793074e41e8e48be9fbb14a55"
+    },
+    {
+      "path": "src/assets/fonts/Futura-CondensedMedium.ttf",
+      "sha1": "7c14d8b2296532717f1c09e6501bd4d481c65199"
+    }
+  ]
+}
